@@ -9,7 +9,7 @@ Prof. Dr. Nathan Gibson
 Norbert-Wollheim-Platz 1, Goethe Universität, FB 06 Ev. Theologie[^1]  
 60323 Frankfurt am Main
 
-eMail: `gdpr-imprint` at `caffm.org`
+eMail: `gdpr-imprint` at `caffm.de`
 
 [^1]: This website is not endorsed by Goethe Universität, nor is any association or affiliation implied.
 

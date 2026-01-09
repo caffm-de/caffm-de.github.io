@@ -82,9 +82,9 @@ Norbert-Wollheim-Platz 1, Goethe Universität, FB 06 Ev. Theologie
 
 60323 Frankfurt am Main
 
-eMail: `gdpr-privacy` at `caffm.org`
+eMail: `gdpr-privacy` at `caffm.de`
 
-Website: [https://caffm.org](https://caffm.org)
+Website: [https://caffm.de](https://caffm.de)
 
 ## **3. Collection of general data and information**
 
