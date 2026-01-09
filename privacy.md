@@ -1,7 +1,8 @@
 ---
 title: Privacy Policy
 layout: page
-noindex: true
+head-extra: noindex.html
+footer-extra: footer-extra.html
 ---
 
 {: .box-note}

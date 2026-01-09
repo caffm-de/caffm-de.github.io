@@ -1,7 +1,8 @@
 ---
 title: Imprint
 layout: page
-noindex: true
+head-extra: noindex.html
+footer-extra: footer-extra.html
 ---
 
 Prof. Dr. Nathan Gibson  
